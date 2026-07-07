@@ -18,6 +18,7 @@ A simple Web3 learning project built with Ethers.js.
 - Ethers.js
 
 Learning blockchain development.
+Learning web3
 
 ## Getting Started
 
